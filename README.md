@@ -17,7 +17,7 @@ This is a little project with a porpose of practice. All the content here is sup
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://genadvice.netlify.app/)
+- Live Site URL: [Team Member Allocation](teammembersalloc.netlify.app)
 
 ## My process
 
